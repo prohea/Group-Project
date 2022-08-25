@@ -11,7 +11,7 @@ So that I can have my team list ready for my pokemon game.
  zacfisher1990, SykKuya, Emmalee A.
 
 # Resources Used
-Pokemon API, Giphy API
+Pokemon API, Giphy API, jQuery
 
 # Technologies Used
 HTML, CSS, JavaScript
